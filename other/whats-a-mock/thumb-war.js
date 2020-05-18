@@ -1,5 +1,4 @@
 import {getWinner} from './utils'
-
 function thumbWar(player1, player2) {
   const numberToWin = 2
   let player1Wins = 0
