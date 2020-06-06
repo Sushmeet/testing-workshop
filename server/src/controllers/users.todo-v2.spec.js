@@ -1,4 +1,4 @@
-import {initDb} from 'til-server-test-utils'
+import { initDb } from 'til-server-test-utils'
 import {omit} from 'lodash'
 import * as userController from './users'
 
